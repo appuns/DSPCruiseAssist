@@ -1,8 +1,8 @@
 {
-  "name": "CruiseAssist",
+  "name": "DSPCruiseAssist",
   "version_number": "0.1.1",
-  "website_url": "https://github.com/tanukinomori/DSPMod",
-  "description": "Adjust the orientation to the target planet or star when moving between planets or star systems.惑星または星系間を移動するときに、ターゲットの惑星または星への向きを調整します。",
+  "website_url": "https://github.com/appuns/DSPCruiseAssist",
+  "description": "Adjust the orientation to the target planet or star when moving between planets or star systems.Successor to CruiseAssist by Tanu惑星または星系間を移動するときに、ターゲットの惑星または星への向きを調整します。たぬさんのCruiseAssistMODの引き継ぎです。",
   "dependencies": [
     "xiaoye97-BepInEx-5.4.17"
   ]

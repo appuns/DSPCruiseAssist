@@ -1,7 +1,10 @@
 # CruiseAssist
 
 Successor to [CruiseAssist](https://dsp.thunderstore.io/package/tanu/CruiseAssist/) MOD by Tanu
+Thanks for the great mod!
 
+たぬさんのMOD [CruiseAssist](https://dsp.thunderstore.io/package/tanu/CruiseAssist/) の引き継ぎです。
+すばらしいMODに感謝します！
 
 ## What's this?
 
@@ -14,24 +17,29 @@ You can set the target by selecting it in the indicator, by selecting it in the 
 ## IMAGE
 
 ### Main Window (full size)
-![image019](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image019.png?raw=true)
+![image019](https://github.com/appuns/DSPCruiseAssist/blob/main/image/image019.png?raw=true)
 
 ### Main Window (mini size)
-![image020](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image020.png?raw=true)
+![image020](https://github.com/appuns/DSPCruiseAssist/blob/main//image/image020.png?raw=true)
 
 ### StarList Window (Normal)
-![image025](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image025.png?raw=true)
+![image025](https://github.com/appuns/DSPCruiseAssist/blob/main//image/image025.png?raw=true)
 
 ### StarList Window (History)
-![image026](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image026.png?raw=true)
+![image026](https://github.com/appuns/DSPCruiseAssist/blob/main//image/image026.png?raw=true)
 
 ### StarList Window (Bookmark)
-![image027](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image027.png?raw=true)
+![image027](https://github.com/appuns/DSPCruiseAssist/blob/main//image/image027.png?raw=true)
 
 ### Config Window
-![image028](https://github.com/tanukinomori/DSPMod/blob/main/CruiseAssist/image/image028.png?raw=true)
+![image028](https://github.com/appuns/DSPCruiseAssist/blob/main//image/image028.png?raw=true)
 
 ## CHANGE LOG
+
+### v0.1.1
+
+ - Take over from Tanu and released. 
+ - Supported the game version 0.10.28.21172. ゲームバージョン0.10.28.21172に対応しています
 
 ### v0.0.37
 
@@ -200,6 +208,11 @@ You can set the target by selecting it in the indicator, by selecting it in the 
 対象の設定はインジケーターで選択、星系リストで選択、星の正面を向くなどで出来ます。
 
 ## 変更履歴
+
+### v0.1.1
+
+ - たぬさんから引き継いでリリースしました. 
+ - ゲームバージョン0.10.28.21172に対応しています
 
 ### v0.0.37
 

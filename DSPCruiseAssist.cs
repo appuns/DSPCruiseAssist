@@ -12,9 +12,9 @@ namespace tanu.CruiseAssist
 	[BepInPlugin(ModGuid, ModName, ModVersion)]
 	public class CruiseAssist : BaseUnityPlugin
 	{
-		public const string ModGuid = "tanu.CruiseAssist";
-		public const string ModName = "CruiseAssist";
-		public const string ModVersion = "0.0.30";
+		public const string ModGuid = "Appun.DSP.plugin.CruiseAssist";
+		public const string ModName = "DSPCruiseAssist";
+		public const string ModVersion = "0.1.1";
 
 		public static bool Enable = true;
 		public static bool MarkVisitedFlag = true;
