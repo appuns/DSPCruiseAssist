@@ -36,10 +36,14 @@ You can set the target by selecting it in the indicator, by selecting it in the 
 
 ## CHANGE LOG
 
+### v0.1.2
+ - Fixed incorrect file name.
+ - Supported the game version 0.10.28.21247.
+
 ### v0.1.1
 
  - Take over from Tanu and released. 
- - Supported the game version 0.10.28.21172. ゲームバージョン0.10.28.21172に対応しています
+ - Supported the game version 0.10.28.21172. 
 
 ### v0.0.37
 
@@ -208,6 +212,11 @@ You can set the target by selecting it in the indicator, by selecting it in the 
 対象の設定はインジケーターで選択、星系リストで選択、星の正面を向くなどで出来ます。
 
 ## 変更履歴
+
+### v0.1.2
+
+ - ファイル名が間違っていたこと修正しました。
+ - ゲームバージョン0.10.28.21247に対応しています
 
 ### v0.1.1
 

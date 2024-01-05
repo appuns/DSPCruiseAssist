@@ -7,8 +7,8 @@
     <ProjectGuid>{81DF3045-8007-4F6A-AAF6-903139D85B6C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DSPAutoSorter</RootNamespace>
-    <AssemblyName>DSPAutoSorter</AssemblyName>
+    <RootNamespace>DSPCruiseAssist</RootNamespace>
+    <AssemblyName>DSPCruiseAssist</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
